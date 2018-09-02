@@ -20,4 +20,6 @@ end
 mod_img = uint8(mod_img);
 
 figure, imshow(img);
+figure, imhist(img);
 figure, imshow(mod_img);
+figure, imhist(mod_img);
