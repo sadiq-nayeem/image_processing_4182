@@ -11,7 +11,7 @@ sobel = [-1 0 1; -2 0 2; -1 0 1];
 
 min_pix = 256;
 max_pix = -1;
-MAX_BRIGHTNESS = 200;
+MAX_BRIGHTNESS = 255;
 
 
 for i = 2:r-1
